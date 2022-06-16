@@ -1,0 +1,1167 @@
+TITLE VIII—PAYMENT, CLEARING, AND SETTLEMENT SUPERVISION
+                                                                     18      SEC. 801. SHORT TITLE.
+
+                                                                     19                This title may be cited as the ‘‘Payment, Clearing,
+                                                                     20 and Settlement Supervision Act of 2010’’.
+                                                                     21      SEC. 802. FINDINGS AND PURPOSES.
+
+                                                                     22                (a) FINDINGS.—Congress finds the following:
+                                                                     23                         (1) The proper functioning of the financial markets is dependent upon safe and efficient arrangements for the clearing and settlement of payment,
+                                                                       2               securities, and other financial transactions.
+                                                                       3                        (2) Financial market utilities that conduct or
+                                                                       4               support multilateral payment, clearing, or settlement
+                                                                       5               activities may reduce risks for their participants and
+                                                                       6               the broader financial system, but such utilities may
+                                                                       7               also concentrate and create new risks and thus must
+                                                                       8               be well designed and operated in a safe and sound
+                                                                       9               manner.
+                                                                     10                         (3) Payment, clearing, and settlement activities
+                                                                     11                conducted by financial institutions also present important risks to the participating financial institutions and to the financial system.
+                                                                     14                         (4) Enhancements to the regulation and supervision of systemically important financial market
+                                                                     16                utilities and the conduct of systemically important
+                                                                     17                payment, clearing, and settlement activities by financial institutions are necessary—
+                                                                     19                                  (A) to provide consistency;
+                                                                     20                                  (B) to promote robust risk management
+                                                                     21                         and safety and soundness;
+                                                                     22                                  (C) to reduce systemic risks; and
+                                                                     23                                  (D) to support the stability of the broader
+                                                                     24                         financial system.
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00737   Fmt 6652   Sfmt 6201   
+                                                                                                                           738
+                                                                       1               (b) PURPOSE.—The purpose of this title is to mitigate systemic risk in the financial system and promote financial stability by—
+                                                                       4                        (1) authorizing the Board of Governors to prescribe uniform standards for the—
+                                                                       6                                 (A) management of risks by systemically
+                                                                       7                        important financial market utilities; and
+                                                                       8                                 (B) conduct of systemically important payment, clearing, and settlement activities by financial institutions;
+                                                                     11                         (2) providing the Board of Governors an enhanced role in the supervision of risk management
+                                                                     13                standards for systemically important financial market utilities;
+                                                                     15                         (3) strengthening the liquidity of systemically
+                                                                     16                important financial market utilities; and
+                                                                     17                         (4) providing the Board of Governors an enhanced role in the supervision of risk management
+                                                                     19                standards for systemically important payment, clearing, and settlement activities by financial institutions.
+                                                                     22      SEC. 803. DEFINITIONS.
+
+                                                                     23                In this title, the following definitions shall apply:
+                                                                     24                         (1) APPROPRIATE                      FINANCIAL              REGULATOR.—
+
+
+
+
+
+                                                                     25                The term ‘‘appropriate financial regulator’’ means—
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00738   Fmt 6652   Sfmt 6201   
+                                                                                                                           739
+                                                                       1                                 (A) the primary financial regulatory agency, as defined in section 2 of this Act;
+                                                                       3                                 (B) the National Credit Union Administration, with respect to any insured credit union
+                                                                       5                        under the Federal Credit Union Act (12 U.S.C.
+                                                                       6                        1751 et seq.); and
+                                                                       7                                 (C) the Board of Governors, with respect
+                                                                       8                        to organizations operating under section 25A of
+                                                                       9                        the Federal Reserve Act (12 U.S.C. 611), and
+                                                                     10                         any other financial institution engaged in a designated activity.
+                                                                     12                         (2) DESIGNATED                     ACTIVITY.—The                   term ‘‘designated activity’’ means a payment, clearing, or settlement activity that the Council has designated as
+                                                                     15                systemically important under section 804.
+                                                                     16                         (3) DESIGNATED                      FINANCIAL              MARKET        UTILITY.—The             term ‘‘designated financial market utility’’ means a financial market utility that the Council has designated as systemically important under
+                                                                     20                section 804.
+                                                                     21                         (4) FINANCIAL                   INSTITUTION.—The                     term ‘‘financial institution’’ means—
+                                                                     23                                  (A) a depository institution, as defined in
+                                                                     24                         section 3 of the Federal Deposit Insurance Act
+
+
+
+
+
+                                                                     25                         (12 U.S.C. 1813);
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00739   Fmt 6652   Sfmt 6201   
+                                                                                                                           740
+                                                                       1                                 (B) a branch or agency of a foreign bank,
+                                                                       2                        as defined in section 1(b) of the International
+                                                                       3                        Banking Act of 1978 (12 U.S.C. 3101);
+                                                                       4                                 (C) an organization operating under section 25 or 25A of the Federal Reserve Act (12
+                                                                       6                        U.S.C. 601–604a and 611 through 631);
+                                                                       7                                 (D) a credit union, as defined in section
+                                                                       8                        101 of the Federal Credit Union Act (12
+                                                                       9                        U.S.C. 1752);
+                                                                     10                                  (E) a broker or dealer, as defined in section 3 of the Securities Exchange Act of 1934
+                                                                     12                         (15 U.S.C. 78c);
+                                                                     13                                  (F) an investment company, as defined in
+                                                                     14                         section 3 of the Investment Company Act of
+                                                                     15                         1940 (15 U.S.C. 80a–3);
+                                                                     16                                  (G) an insurance company, as defined in
+                                                                     17                         section 2 of the Investment Company Act of
+                                                                     18                         1940 (15 U.S.C. 80a–2);
+                                                                     19                                  (H) an investment adviser, as defined in
+                                                                     20                         section 202 of the Investment Advisers Act of
+                                                                     21                         1940 (15 U.S.C. 80b–2);
+                                                                     22                                  (I) a futures commission merchant, commodity trading advisor, or commodity pool operator, as defined in section 1a of the Commodity
+
+
+
+
+
+                                                                     25                         Exchange Act (7 U.S.C. 1a); and
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00740   Fmt 6652   Sfmt 6201   
+                                                                                                                           741
+                                                                       1                                 (J) any company engaged in activities that
+                                                                       2                        are financial in nature or incidental to a financial activity, as described in section 4 of the
+                                                                       4                        Bank Holding Company Act of 1956 (12
+                                                                       5                        U.S.C. 1843(k)).
+                                                                       6                        (5) FINANCIAL                   MARKET UTILITY.—The                      term
+                                                                       7               ‘‘financial market utility’’ means any person that
+                                                                       8               manages or operates a multilateral system for the
+                                                                       9               purpose of transferring, clearing, or settling payments, securities, or other financial transactions
+                                                                     11                among financial institutions or between financial institutions and the person.
+                                                                     13                         (6) PAYMENT,               CLEARING, OR SETTLEMENT ACTIVITY.—
+
+                                                                     15                                  (A) IN          GENERAL.—The                    term ‘‘payment,
+                                                                     16                         clearing, or settlement activity’’ means an activity carried out by 1 or more financial institutions to facilitate the completion of financial
+                                                                     19                         transactions.
+                                                                     20                                  (B) FINANCIAL                      TRANSACTION.—For              the
+                                                                     21                         purposes of subparagraph (A), the term ‘‘financial transaction’’ includes—
+                                                                     23                                          (i) funds transfers;
+                                                                     24                                          (ii) securities contracts;
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00741   Fmt 6652   Sfmt 6201   
+                                                                                                                           742
+                                                                       1                                         (iii) contracts of sale of a commodity
+                                                                       2                                 for future delivery;
+                                                                       3                                         (iv) forward contracts;
+                                                                       4                                         (v) repurchase agreements;
+                                                                       5                                         (vi) swaps;
+                                                                       6                                         (vii) security-based swaps;
+                                                                       7                                         (viii) swap agreements;
+                                                                       8                                         (ix) security-based swap agreements;
+                                                                       9                                         (x) foreign exchange contracts;
+                                                                     10                                          (xi) financial derivatives contracts;
+                                                                     11                                  and
+                                                                     12                                          (xii) any similar transaction that the
+                                                                     13                                  Council determines to be a financial trans-
+                                                                     14                                  action for purposes of this title.
+                                                                     15                                  (C) INCLUDED                       ACTIVITIES.—When             conducted with respect to a financial transaction,
+                                                                     17                         payment, clearing, and settlement activities may
+                                                                     18                         include—
+                                                                     19                                          (i) the calculation and communication
+                                                                     20                                  of unsettled financial transactions between
+                                                                     21                                  counterparties;
+                                                                     22                                          (ii) the netting of transactions;
+                                                                     23                                          (iii) provision and maintenance of
+                                                                     24                                  trade, contract, or instrument information;
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00742   Fmt 6652   Sfmt 6201   
+                                                                                                                           743
+                                                                       1                                         (iv) the management of risks and activities associated with continuing financial
+                                                                       3                                 transactions;
+                                                                       4                                         (v) transmittal and storage of payment instructions;
+                                                                       6                                         (vi) the movement of funds;
+                                                                       7                                         (vii) the final settlement of financial
+                                                                       8                                 transactions; and
+                                                                       9                                         (viii) other similar functions that the
+                                                                     10                                  Council may determine.
+                                                                     11                         (7) SUPERVISORY                  AGENCY.—
+
+                                                                     12                                  (A) IN       GENERAL.—The                    term ‘‘Supervisory
+                                                                     13                         Agency’’ means the Federal agency that has
+                                                                     14                         primary jurisdiction over a designated financial
+                                                                     15                         market utility under Federal banking, securities, or commodity futures laws, as follows:
+                                                                     17                                          (i) The Securities and Exchange Commission, with respect to a designated financial market utility that is a clearing
+                                                                     20                                  agency registered with the Securities and
+                                                                     21                                  Exchange Commission.
+                                                                     22                                          (ii) The Commodity Futures Trading
+                                                                     23                                  Commission, with respect to a designated
+                                                                     24                                  financial market utility that is a derivatives clearing organization registered with
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00743   Fmt 6652   Sfmt 6201   
+                                                                                                                           744
+                                                                       1                                 the Commodity Futures Trading Commission.
+                                                                       3                                         (iii) The appropriate Federal banking
+                                                                       4                                 agency, with respect to a designated financial market utility that is an institution described in section 3(q) of the Federal Deposit Insurance Act.
+                                                                       8                                         (iv) The Board of Governors, with respect to a designated financial market utility that is otherwise not subject to the juisdiction of any agency listed in clauses
+                                                                     12                                  (i), (ii), and (iii).
+                                                                     13                                  (B) MULTIPLE                 AGENCY JURISDICTION.—If
+
+                                                                     14                         a designated financial market utility is subject
+                                                                     15                         to the jurisdictional supervision of more than 1
+                                                                     16                         agency listed in subparagraph (A), then such
+                                                                     17                         agencies should agree on 1 agency to act as the
+                                                                     18                         Supervisory Agency, and if such agencies cannot agree on which agency has primary jurisdiction, the Council shall decide which agency is
+                                                                     21                         the Supervisory Agency for purposes of this
+                                                                     22                         title.
+                                                                     23                         (8) SYSTEMICALLY                     IMPORTANT AND SYSTEMIC
+
+                                                                     24                IMPORTANCE.—The                      terms ‘‘systemically important’’
+
+
+
+
+
+                                                                     25                and ‘‘systemic importance’’ mean a situation where
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00744   Fmt 6652   Sfmt 6201   
+                                                                                                                           745
+                                                                       1               the failure of or a disruption to the functioning of
+                                                                       2               a financial market utility or the conduct of a payment, clearing, or settlement activity could create, or
+                                                                       4               increase, the risk of significant liquidity or credit
+                                                                       5               problems spreading among financial institutions or
+                                                                       6               markets and thereby threaten the stability of the financial system.
+                                                                       8     SEC. 804. DESIGNATION OF SYSTEMIC IMPORTANCE.
+
+                                                                       9               (a) DESIGNATION.—
+                                                                     10                         (1) FINANCIAL                   STABILITY OVERSIGHT COUNCIL.—The            Council, on a nondelegable basis and by
+                                                                     12                a vote of not fewer than 2⁄3 of members then serving,
+                                                                     13                including an affirmative vote by the Chairperson of
+                                                                     14                the Council, shall designate those financial market
+                                                                     15                utilities or payment, clearing, or settlement activities
+                                                                     16                that the Council determines are, or are likely to become, systemically important.
+                                                                     18                         (2) CONSIDERATIONS.—In determining whether
+                                                                     19                a financial market utility or payment, clearing, or
+                                                                     20                settlement activity is, or is likely to become, systemically important, the Council shall take into consideration the following:
+                                                                     23                                  (A) The aggregate monetary value of
+                                                                     24                         transactions processed by the financial market
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00745   Fmt 6652   Sfmt 6201   
+                                                                                                                           746
+                                                                       1                        utility or carried out through the payment,
+                                                                       2                        clearing, or settlement activity.
+                                                                       3                                 (B) The aggregate exposure of the financial market utility or a financial institution engaged in payment, clearing, or settlement activities to its counterparties.
+                                                                       7                                 (C) The relationship, interdependencies, or
+                                                                       8                        other interactions of the financial market utility
+                                                                       9                        or payment, clearing, or settlement activity with
+                                                                     10                         other financial market utilities or payment,
+                                                                     11                         clearing, or settlement activities.
+                                                                     12                                  (D) The effect that the failure of or a disruption to the financial market utility or payment, clearing, or settlement activity would
+                                                                     15                         have on critical markets, financial institutions,
+                                                                     16                         or the broader financial system.
+                                                                     17                                  (E) Any other factors that the Council
+                                                                     18                         deems appropriate.
+                                                                     19                (b) RESCISSION OF DESIGNATION.—
+                                                                     20                         (1) IN       GENERAL.—The                     Council, on a nondelegable basis and by a vote of not fewer than 2⁄3 of
+                                                                     22                members then serving, including an affirmative vote
+                                                                     23                by the Chairperson of the Council, shall rescind a
+                                                                     24                designation of systemic importance for a designated
+
+
+
+
+
+                                                                     25                financial market utility or designated activity if the
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00746   Fmt 6652   Sfmt 6201   
+                                                                                                                           747
+                                                                       1               Council determines that the utility or activity no
+                                                                       2               longer meets the standards for systemic importance.
+                                                                       3                        (2) EFFECT              OF RESCISSION.—Upon                          rescission,
+                                                                       4               the financial market utility or financial institutions
+                                                                       5               conducting the activity will no longer be subject to
+                                                                       6               the provisions of this title or any rules or orders prescribed by the Council under this title.
+                                                                       8               (c) CONSULTATION                    AND       NOTICE          AND     OPPORTUNITY
+                                                                       9     FOR      HEARING.—
+                                                                     10                         (1) CONSULTATION.—Before making any determination under subsection (a) or (b), the Council
+                                                                     12                shall consult with the relevant Supervisory Agency
+                                                                     13                and the Board of Governors.
+                                                                     14                         (2) ADVANCE                NOTICE AND OPPORTUNITY FOR
+
+                                                                     15                HEARING.—
+
+                                                                     16                                  (A) IN       GENERAL.—Before                     making any determination under subsection (a) or (b), the
+                                                                     18                         Council shall provide the financial market utility or, in the case of a payment, clearing, or
+                                                                     20                         settlement activity, financial institutions with
+                                                                     21                         advance notice of the proposed determination of
+                                                                     22                         the Council.
+                                                                     23                                  (B) NOTICE              IN FEDERAL REGISTER.—The
+
+                                                                     24                         Council shall provide such advance notice to financial institutions by publishing a notice in
+                                                                       2                        the Federal Register.
+                                                                       3                                 (C) REQUESTS                 FOR HEARING.—Within                30
+                                                                       4                        days from the date of any notice of the proposed determination of the Council, the financial market utility or, in the case of a payment,
+                                                                       7                        clearing, or settlement activity, a financial institution engaged in the designated activity may
+                                                                       9                        request, in writing, an opportunity for a written
+                                                                     10                         or oral hearing before the Council to demonstrate that the proposed designation or rescission of designation is not supported by substantial evidence.
+                                                                     14                                  (D) WRITTEN                    SUBMISSIONS.—Upon                receipt of a timely request, the Council shall fix
+                                                                     16                         a time, not more than 30 days after receipt of
+                                                                     17                         the request, unless extended at the request of
+                                                                     18                         the financial market utility or financial institution, and place at which the financial market
+                                                                     20                         utility or financial institution may appear, personally or through counsel, to submit written
+                                                                     22                         materials, or, at the sole discretion of the Council, oral testimony or oral argument.
+                                                                     24                         (3) EMERGENCY                   EXCEPTION.—
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00748   Fmt 6652   Sfmt 6201   
+                                                                                                                           749
+                                                                       1                                 (A) WAIVER                OR MODIFICATION BY VOTE
+
+                                                                       2                        OF THE COUNCIL.—The                            Council may waive or
+                                                                       3                        modify the requirements of paragraph (2) if the
+                                                                       4                        Council determines, by an affirmative vote of
+                                                                       5                        not less than 2⁄3 of all members then serving,
+                                                                       6                        including an affirmative vote by the Chairperson of the Council, that the waiver or modification is necessary to prevent or mitigate an
+                                                                       9                        immediate threat to the financial system posed
+                                                                     10                         by the financial market utility or the payment,
+                                                                     11                         clearing, or settlement activity.
+                                                                     12                                  (B) NOTICE                OF WAIVER OR MODIFICATION.—The              Council shall provide notice of the
+                                                                     14                         waiver or modification to the financial market
+                                                                     15                         utility concerned or, in the case of a payment,
+                                                                     16                         clearing, or settlement activity, to financial institutions, as soon as practicable, which shall be
+                                                                     18                         no later than 24 hours after the waiver or
+                                                                     19                         modification in the case of a financial market
+                                                                     20                         utility and 3 business days in the case of financial institutions. The Council shall provide the
+                                                                     22                         notice to financial institutions by posting a notice on the website of the Council and by publishing a notice in the Federal Register.
+
+
+
+
+
+                                                                     25                (d) NOTIFICATION OF FINAL DETERMINATION.—
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00749   Fmt 6652   Sfmt 6201   
+                                                                                                                            750
+                                                                       1                        (1) AFTER             HEARING.—Within                     60 days of any
+                                                                       2               hearing under subsection (c)(3), the Council shall
+                                                                       3               notify the financial market utility or financial institutions of the final determination of the Council in
+                                                                       5               writing, which shall include findings of fact upon
+                                                                       6               which the determination of the Council is based.
+                                                                       7                        (2) WHEN              NO HEARING REQUESTED.—If                           the
+                                                                       8               Council does not receive a timely request for a hearing under subsection (c)(3), the Council shall notify
+                                                                     10                the financial market utility or financial institutions
+                                                                     11                of the final determination of the Council in writing
+                                                                     12                not later than 30 days after the expiration of the
+                                                                     13                date by which a financial market utility or a financial institution could have requested a hearing. All
+                                                                     15                notices to financial institutions under this subsection
+                                                                     16                shall be published in the Federal Register.
+                                                                     17                (e) EXTENSION                   OF       TIME PERIODS.—The Council
+                                                                     18 may extend the time periods established in subsections (c)
+                                                                     19 and (d) as the Council determines to be necessary or appropriate.
+                                                                     21      SEC. 805. STANDARDS FOR SYSTEMICALLY IMPORTANT FINANCIAL MARKET UTILITIES AND PAYMENT,
+
+                                                                     23                              CLEARING, OR SETTLEMENT ACTIVITIES.
+
+                                                                     24                (a) AUTHORITY TO PRESCRIBE STANDARDS.—The
+
+
+
+
+
+                                                                     25 Board, by rule or order, and in consultation with the
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00750   Fmt 6652   Sfmt 6201   
+                                                                                                                           751
+                                                                       1 Council and the Supervisory Agencies, shall prescribe risk
+                                                                       2 management standards, taking into consideration relevant
+                                                                       3 international standards and existing prudential requirements, governing—
+                                                                       5                        (1) the operations related to the payment, clearing, and settlement activities of designated financial
+                                                                       7               market utilities; and
+                                                                       8                        (2) the conduct of designated activities by financial institutions.
+                                                                     10                (b) OBJECTIVES                  AND        PRINCIPLES.—The objectives
+                                                                     11 and principles for the risk management standards prescribed under subsection (a) shall be to—
+                                                                     13                         (1) promote robust risk management;
+                                                                     14                         (2) promote safety and soundness;
+                                                                     15                         (3) reduce systemic risks; and
+                                                                     16                         (4) support the stability of the broader financial
+                                                                     17                system.
+                                                                     18                (c) SCOPE.—The standards prescribed under sub-
+                                                                     19 section (a) may address areas such as—
+                                                                     20                         (1) risk management policies and procedures;
+                                                                     21                         (2) margin and collateral requirements;
+                                                                     22                         (3) participant or counterparty default policies
+                                                                     23                and procedures;
+                                                                     24                         (4) the ability to complete timely clearing and
+
+
+
+
+
+                                                                     25                settlement of financial transactions;
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00751   Fmt 6652   Sfmt 6201   
+                                                                                                                           752
+                                                                       1                        (5) capital and financial resource requirements
+                                                                       2               for designated financial market utilities; and
+                                                                       3                        (6) other areas that the Board determines are
+                                                                       4               necessary to achieve the objectives and principles in
+                                                                       5               subsection (b).
+                                                                       6               (d) THRESHOLD LEVEL.—The standards prescribed
+                                                                       7 under subsection (a) governing the conduct of designated
+                                                                       8 activities by financial institutions shall, where appropriate,
+                                                                       9 establish a threshold as to the level or significance of engagement in the activity at which a financial institution
+                                                                     11 will become subject to the standards with respect to that
+                                                                     12 activity.
+                                                                     13                (e) COMPLIANCE REQUIRED.—Designated financial
+                                                                     14 market utilities and financial institutions subject to the
+                                                                     15 standards prescribed by the Board of Governors for a designated activity shall conduct their operations in compliance with the applicable risk management standards prescribed by the Board of Governors.
+                                                                     19      SEC. 806. OPERATIONS OF DESIGNATED FINANCIAL MARKET UTILITIES.
+
+                                                                     21                (a) FEDERAL RESERVE ACCOUNT                                     AND       SERVICES.—
+                                                                     22 The Board of Governors may authorize a Federal Reserve
+                                                                     23 Bank to establish and maintain an account for a designated financial market utility and provide services to the
+
+
+
+
+
+                                                                     25 designated financial market utility that the Federal Reserve Bank is authorized under the Federal Reserve Act
+                                                                       2 to provide to a depository institution, subject to any applicable rules, orders, standards, or guidelines prescribed by
+                                                                       4 the Board of Governors.
+                                                                       5               (b) ADVANCES.—The Board of Governors may authorize a Federal Reserve Bank to provide to a designated
+                                                                       7 financial market utility the same discount and borrowing
+                                                                       8 privileges as the Federal Reserve Bank may provide to a
+                                                                       9 depository institution under the Federal Reserve Act, subject to any applicable rules, orders, standards, or guidelines prescribed by the Board of Governors.
+                                                                     12                (c) EARNINGS              ON     FEDERAL RESERVE BALANCES.—
+                                                                     13 A Federal Reserve Bank may pay earnings on balances
+                                                                     14 maintained by or on behalf of a designated financial market utility in the same manner and to the same extent
+                                                                     16 as the Federal Reserve Bank may pay earnings to a depository institution under the Federal Reserve Act, subject
+                                                                     18 to any applicable rules, orders, standards, or guidelines
+                                                                     19 prescribed by the Board of Governors.
+                                                                     20                (d) RESERVE REQUIREMENTS.—The Board of Governors may exempt a designated financial market utility
+                                                                     22 from, or modify any, reserve requirements under section
+                                                                     23 19 of the Federal Reserve Act (12 U.S.C. 461) applicable
+                                                                     24 to a designated financial market utility.
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00753   Fmt 6652   Sfmt 6201   
+                                                                                                                           754
+                                                                       1               (e) CHANGES               TO      RULES, PROCEDURES,                         OR     OPERATIONS.—
+
+                                                                       3                        (1) ADVANCE              NOTICE.—
+
+                                                                       4                                 (A)         ADVANCE                NOTICE         OF       PROPOSED
+
+                                                                       5                        CHANGES REQUIRED.—A                               designated financial
+                                                                       6                        market utility shall provide notice 60 days in
+                                                                       7                        advance advance notice to its Supervisory Agency and the Board of Governors of any proposed
+                                                                       9                        change to its rules, procedures, or operations
+                                                                     10                         that could, as defined in rules of the Board of
+                                                                     11                         Governors, materially affect, the nature or level
+                                                                     12                         of risks presented by the designated financial
+                                                                     13                         market utility.
+                                                                     14                                  (B) TERMS              AND STANDARDS PRESCRIBED
+
+                                                                     15                         BY THE BOARD OF GOVERNORS.—The                                           Board of
+                                                                     16                         Governors shall prescribe regulations that define and describe the standards for determining
+                                                                     18                         when notice is required to be provided under
+                                                                     19                         subparagraph (A).
+                                                                     20                                  (C) CONTENTS                 OF NOTICE.—The                     notice of
+                                                                     21                         a proposed change shall describe—
+                                                                     22                                          (i) the nature of the change and expected effects on risks to the designated financial market utility, its participants, or
+
+
+
+
+
+                                                                     25                                  the market; and
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00754   Fmt 6652   Sfmt 6201   
+                                                                                                                           755
+                                                                       1                                         (ii) how the designated financial market utility plans to manage any identified
+                                                                       3                                 risks.
+                                                                       4                                 (D) ADDITIONAL                     INFORMATION.—The               Supervisory Agency or the Board of Governors
+                                                                       6                        may require a designated financial market utility to provide any information necessary to assess the effect the proposed change would have
+                                                                       9                        on the nature or level of risks associated with
+                                                                     10                         the designated financial market utility’s payment, clearing, or settlement activities and the
+                                                                     12                         sufficiency of any proposed risk management
+                                                                     13                         techniques.
+                                                                     14                                  (E) NOTICE               OF OBJECTION.—The                      Supervisory Agency or the Board of Governors shall
+                                                                     16                         notify the designated financial market utility of
+                                                                     17                         any objection regarding the proposed change
+                                                                     18                         within 60 days from the later of—
+                                                                     19                                          (i) the date that the notice of the proposed change is received; or
+                                                                     21                                          (ii) the date any further information
+                                                                     22                                  requested for consideration of the notice is
+                                                                     23                                  received.
+                                                                     24                                  (F) CHANGE                 NOT ALLOWED IF OBJECTION.—A              designated financial market utility
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00755   Fmt 6652   Sfmt 6201   
+                                                                                                                           756
+                                                                       1                        shall not implement a change to which the
+                                                                       2                        Board of Governors or the Supervisory Agency
+                                                                       3                        has an objection.
+                                                                       4                                 (G) CHANGE                ALLOWED IF NO OBJECTION
+
+                                                                       5                        WITHIN 60 DAYS.—A                       designated financial market utility may implement a change if it has not
+                                                                       7                        received an objection to the proposed change
+                                                                       8                        within 60 days of the later of—
+                                                                       9                                         (i) the date that the Supervisory
+                                                                     10                                  Agency or the Board of Governors receives
+                                                                     11                                  the notice of proposed change; or
+                                                                     12                                          (ii) the date the Supervisory Agency
+                                                                     13                                  or the Board of Governors receives any
+                                                                     14                                  further information it requests for consideration of the notice.
+                                                                     16                                  (H) REVIEW                EXTENSION FOR NOVEL OR
+
+                                                                     17                         COMPLEX ISSUES.—The                           Supervisory Agency or
+                                                                     18                         the Board of Governors may, during the 60-day
+                                                                     19                         review period, extend the review period for an
+                                                                     20                         additional 60 days for proposed changes that
+                                                                     21                         raise novel or complex issues, subject to the Supervisory Agency or the Board of Governors
+                                                                     23                         providing the designated financial market utility
+                                                                     24                         with prompt written notice of the extension.
+
+
+
+
+
+                                                                     25                         Any extension under this subparagraph will extend the time periods under subparagraphs (D)
+                                                                       2                        and (F).
+                                                                       3                                 (I) CHANGE               ALLOWED EARLIER IF NOTIFIED OF NO OBJECTION.—A                                 designated financial market utility may implement a change in
+                                                                       6                        less than 60 days from the date of receipt of
+                                                                       7                        the notice of proposed change by the Supervisory Agency or the Board of Governors, or the
+                                                                       9                        date the Supervisory Agency or the Board of
+                                                                     10                         Governors receives any further information it
+                                                                     11                         requested, if the Supervisory Agency or the
+                                                                     12                         Board of Governors notifies the designated financial market utility in writing that it does
+                                                                     14                         not object to the proposed change and authorizes the designated financial market utility to
+                                                                     16                         implement the change on an earlier date, subject to any conditions imposed by the Supervisory Agency or the Board of Governors.
+                                                                     19                         (2) EMERGENCY                   CHANGES.—
+
+                                                                     20                                  (A) IN        GENERAL.—A                  designated financial
+                                                                     21                         market utility may implement a change that
+                                                                     22                         would otherwise require advance notice under
+                                                                     23                         this subsection if it determines that—
+                                                                     24                                          (i) an emergency exists; and
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00757   Fmt 6652   Sfmt 6201   
+                                                                                                                           758
+                                                                       1                                         (ii) immediate implementation of the
+                                                                       2                                 change is necessary for the designated financial market utility to continue to provide its services in a safe and sound manner.
+                                                                       6                                 (B)         NOTICE             REQUIRED                 WITHIN    24
+
+                                                                       7                        HOURS.—The                designated financial market utility shall provide notice of any such emergency
+                                                                       9                        change to its Supervisory Agency and the
+                                                                     10                         Board of Governors, as soon as practicable,
+                                                                     11                         which shall be no later than 24 hours after implementation of the change.
+                                                                     13                                  (C) CONTENTS                 OF EMERGENCY NOTICE.—
+
+                                                                     14                         In addition to the information required for
+                                                                     15                         changes requiring advance notice, the notice of
+                                                                     16                         an emergency change shall describe—
+                                                                     17                                          (i) the nature of the emergency; and
+                                                                     18                                          (ii) the reason the change was necessary for the designated financial market
+                                                                     20                                  utility to continue to provide its services in
+                                                                     21                                  a safe and sound manner.
+                                                                     22                                  (D) MODIFICATION                         OR      RESCISSION      OF
+
+                                                                     23                         CHANGE MAY BE REQUIRED.—The                                       Supervisory
+                                                                     24                         Agency or the Board of Governors may require
+
+
+
+
+
+                                                                     25                         modification or rescission of the change if it
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00758   Fmt 6652   Sfmt 6201   
+                                                                                                                           759
+                                                                       1                        finds that the change is not consistent with the
+                                                                       2                        purposes of this Act or any rules, orders, or
+                                                                       3                        standards prescribed by the Board of Governors
+                                                                       4                        hereunder.
+                                                                       5                        (3) COPYING             THE BOARD OF GOVERNORS.—The
+
+                                                                       6               Supervisory Agency shall provide the Board of Governors concurrently with a complete copy of any notice, request, or other information it issues, submits,
+                                                                       9               or receives under this subsection.
+                                                                     10                         (4) CONSULTATION                            WITH      BOARD              OF   GOVERNORS.—Before                     taking any action on, or completing its review of, a change proposed by a designated financial market utility, the Supervisory
+                                                                     14                Agency shall consult with the Board of Governors.
+                                                                     15      SEC. 807. EXAMINATION OF AND ENFORCEMENT ACTIONS
+
+                                                                     16                              AGAINST DESIGNATED FINANCIAL MARKET
+
+                                                                     17                              UTILITIES.
+
+                                                                     18                (a) EXAMINATION.—Notwithstanding any other provision of law and subject to subsection (d), the Supervisory
+                                                                     20 Agency shall conduct examinations of a designated financial market utility at least once annually in order to determine the following:
+                                                                     23                         (1) The nature of the operations of, and the
+                                                                     24                risks borne by, the designated financial market utility.
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00759   Fmt 6652   Sfmt 6201   
+                                                                                                                           760
+                                                                       1                        (2) The financial and operational risks presented by the designated financial market utility to
+                                                                       3               financial institutions, critical markets, or the broader financial system.
+                                                                       5                        (3) The resources and capabilities of the designated financial market utility to monitor and control such risks.
+                                                                       8                        (4) The safety and soundness of the designated
+                                                                       9               financial market utility.
+                                                                     10                         (5) The designated financial market utility’s
+                                                                     11                compliance with—
+                                                                     12                                  (A) this title; and
+                                                                     13                                  (B) the rules and orders prescribed by the
+                                                                     14                         Board of Governors under this title.
+                                                                     15                (b) SERVICE PROVIDERS.—Whenever a service integral to the operation of a designated financial market utility is performed for the designated financial market utility
+                                                                     18 by another entity, whether an affiliate or non-affiliate and
+                                                                     19 whether on or off the premises of the designated financial
+                                                                     20 market utility, the Supervisory Agency may examine
+                                                                     21 whether the provision of that service is in compliance with
+                                                                     22 applicable law, rules, orders, and standards to the same
+                                                                     23 extent as if the designated financial market utility were
+                                                                     24 performing the service on its own premises.
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00760   Fmt 6652   Sfmt 6201   
+                                                                                                                           761
+                                                                       1               (c) ENFORCEMENT.—For purposes of enforcing the
+                                                                       2 provisions of this section, a designated financial market
+                                                                       3 utility shall be subject to, and the appropriate Supervisory
+                                                                       4 Agency shall have authority under the provisions of sub-
+                                                                       5 sections (b) through (n) of section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818) in the same manner
+                                                                       7 and to the same extent as if the designated financial market utility was an insured depository institution and the
+                                                                       9 Supervisory Agency was the appropriate Federal banking
+                                                                     10 agency for such insured depository institution.
+                                                                     11                (d) BOARD OF GOVERNORS INVOLVEMENT IN EXAMINATIONS.—
+
+                                                                     13                         (1) BOARD             OF GOVERNORS CONSULTATION ON
+
+                                                                     14                EXAMINATION PLANNING.—The                                    Supervisory Agency
+                                                                     15                shall consult with the Board of Governors regarding
+                                                                     16                the scope and methodology of any examination conducted under subsections (a) and (b).
+                                                                     18                         (2) BOARD              OF GOVERNORS PARTICIPATION IN
+
+                                                                     19                EXAMINATION.—The                         Board of Governors may, in its
+                                                                     20                discretion, participate in any examination led by a
+                                                                     21                Supervisory Agency and conducted under sub-
+                                                                     22                sections (a) and (b).
+                                                                     23                (e) BOARD              OF      GOVERNORS ENFORCEMENT RECOMMENDATIONS.—
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00761   Fmt 6652   Sfmt 6201   
+                                                                                                                           762
+                                                                       1                        (1) RECOMMENDATION.—The Board of Governors may at any time recommend to the Supervisory Agency that such agency take enforcement action against a designated financial market utility.
+                                                                       5               Any such recommendation for enforcement action
+                                                                       6               shall provide a detailed analysis supporting the recommendation of the Board of Governors.
+                                                                       8                        (2) CONSIDERATION.—The Supervisory Agency
+                                                                       9               shall consider the recommendation of the Board of
+                                                                     10                Governors and submit a response to the Board of
+                                                                     11                Governors within 60 days.
+                                                                     12                         (3) MEDIATION.—If the Supervisory Agency rejects, in whole or in part, the recommendation of the
+                                                                     14                Board of Governors, the Board of Governors may
+                                                                     15                dispute the matter by referring the recommendation
+                                                                     16                to the Council, which shall attempt to resolve the
+                                                                     17                dispute.
+                                                                     18                         (4) ENFORCEMENT                      ACTION.—If              the Council is
+                                                                     19                unable to resolve the dispute under paragraph (3)
+                                                                     20                within 30 days from the date of referral, the Board
+                                                                     21                of Governors may, upon a vote of its members—
+                                                                     22                                  (A) exercise the enforcement authority referenced in subsection (c) as if it were the Supervisory Agency; and
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00762   Fmt 6652   Sfmt 6201   
+                                                                                                                           763
+                                                                       1                                 (B) take enforcement action against the
+                                                                       2                        designated financial market utility.
+                                                                       3               (f) EMERGENCY ENFORCEMENT ACTIONS                                                 BY THE
+
+                                                                       4 BOARD OF GOVERNORS.—
+                                                                       5                        (1) IMMINENT               RISK OF SUBSTANTIAL HARM.—
+
+                                                                       6               The Board of Governors may, after consulting with
+                                                                       7               the Council and the Supervisory Agency, take enforcement action against a designated financial market utility if the Board of Governors has reasonable
+                                                                     10                cause to believe that—
+                                                                     11                                  (A) either—
+                                                                     12                                          (i) an action engaged in, or contemplated by, a designated financial market utility (including any change proposed
+                                                                     15                                  by the designated financial market utility
+                                                                     16                                  to its rules, procedures, or operations that
+                                                                     17                         
+ would otherwise be subject to section
+                                                                     18                                  806(e)) poses an imminent risk of substantial harm to financial institutions, critical
+                                                                     20                                  markets, or the broader financial system;
+                                                                     21                                  or
+                                                                     22                                          (ii) the condition of a designated financial market utility poses an imminent
+                                                                     24                                  risk of substantial harm to financial institutions, critical markets, or the broader financial system; and
+                                                                       3                                 (B) the imminent risk of substantial harm
+                                                                       4                        precludes the Board of Governors’ use of the
+                                                                       5                        procedures in subsection (e).
+                                                                       6                        (2) ENFORCEMENT                      AUTHORITY.—For                      purposes
+                                                                       7               of taking enforcement action under paragraph (1), a
+                                                                       8               designated financial market utility shall be subject
+                                                                       9               to, and the Board of Governors shall have authority
+                                                                     10                under the provisions of subsections (b) through (n)
+                                                                     11                of section 8 of the Federal Deposit Insurance Act
+                                                                     12                (12 U.S.C. 1818) in the same manner and to the
+                                                                     13                same extent as if the designated financial market
+                                                                     14                utility was an insured depository institution and the
+                                                                     15                Board of Governors was the appropriate Federal
+                                                                     16                banking agency for such insured depository institution.
+                                                                     18                         (3) PROMPT              NOTICE TO SUPERVISORY AGENCY
+
+                                                                     19                OF ENFORCEMENT ACTION.—Within                                             24 hours of
+                                                                     20                taking an enforcement action under this subsection,
+                                                                     21                the Board of Governors shall provide written notice
+                                                                     22                to the designated financial market utility’s Supervisory Agency containing a detailed analysis of the
+                                                                     24                action of the Board of Governors, with supporting
+
+
+
+
+
+                                                                     25                documentation included.
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00764   Fmt 6652   Sfmt 6201   
+                                                                                                                           765
+                                                                       1     SEC. 808. EXAMINATION OF AND ENFORCEMENT ACTIONS
+
+                                                                       2                             AGAINST FINANCIAL INSTITUTIONS SUBJECT
+
+                                                                       3                             TO STANDARDS FOR DESIGNATED ACTIVI-
+
+                                                                       4                             TIES.
+
+                                                                       5               (a) EXAMINATION.—The appropriate financial regulator is authorized to examine a financial institution subject to the standards prescribed by the Board of Governors
+                                                                       8 for a designated activity in order to determine the following:
+                                                                     10                         (1) The nature and scope of the designated activities engaged in by the financial institution.
+                                                                     12                         (2) The financial and operational risks the designated activities engaged in by the financial institution may pose to the safety and soundness of the financial institution.
+                                                                     16                         (3) The financial and operational risks the designated activities engaged in by the financial institution may pose to other financial institutions, critical
+                                                                     19                markets, or the broader financial system.
+                                                                     20                         (4) The resources available to and the capabilities of the financial institution to monitor and control the risks described in paragraphs (2) and (3).
+                                                                     23                         (5) The financial institution’s compliance with
+                                                                     24                this title and the rules and orders prescribed by the
+
+
+
+
+
+                                                                     25                Board of Governors under this title.
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00765   Fmt 6652   Sfmt 6201   
+                                                                                                                           766
+                                                                       1               (b) ENFORCEMENT.—For purposes of enforcing the
+                                                                       2 provisions of this section, and the rules and orders prescribed by the Board of Governors under this section, a
+                                                                       4 financial institution subject to the standards prescribed by
+                                                                       5 the Board of Governors for a designated activity shall be
+                                                                       6 subject to, and the appropriate financial regulator shall
+                                                                       7 have authority under the provisions of subsections (b)
+                                                                       8 through (n) of section 8 of the Federal Deposit Insurance
+                                                                       9 Act (12 U.S.C. 1818) in the same manner and to the same
+                                                                     10 extent as if the financial institution was an insured depository institution and the appropriate financial regulator
+                                                                     12 was the appropriate Federal banking agency for such insured depository institution.
+                                                                     14                (c) TECHNICAL ASSISTANCE.—The Board of Governors shall consult with and provide such technical assistance as may be required by the appropriate financial regulators to ensure that the rules and orders prescribed by
+                                                                     18 the Board of Governors under this title are interpreted
+                                                                     19 and applied in as consistent and uniform a manner as
+                                                                     20 practicable.
+                                                                     21                (d) DELEGATION.—
+                                                                     22                         (1) EXAMINATION.—
+                                                                     23                                  (A)         REQUEST                 TO      BOARD            OF   GOVERNORS.—The                     appropriate financial regulator
+
+
+
+
+
+                                                                     25                         may request the Board of Governors to conduct
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00766   Fmt 6652    Sfmt 6201   
+                                                                                                                           767
+                                                                       1                        or participate in an examination of a financial
+                                                                       2                        institution subject to the standards prescribed
+                                                                       3                        by the Board of Governors for a designated activity in order to assess the compliance of such
+                                                                       5                        financial institution with—
+                                                                       6                                         (i) this title; or
+                                                                       7                                         (ii) the rules or orders prescribed by
+                                                                       8                                 the Board of Governors under this title.
+                                                                       9                                 (B) EXAMINATION                          BY    BOARD             OF   GOVERNORS.—Upon                    receipt of an appropriate written request, the Board of Governors will conduct the examination under such terms and
+                                                                     13                         conditions to which the Board of Governors and
+                                                                     14                         the appropriate financial regulator mutually
+                                                                     15                         agree.
+                                                                     16                         (2) ENFORCEMENT.—
+                                                                     17                                  (A)         REQUEST                 TO      BOARD            OF       GOVERNORS.—The                     appropriate financial regulator
+                                                                     19                         may request the Board of Governors to enforce
+                                                                     20                         this title or the rules or orders prescribed by
+                                                                     21                         the Board of Governors under this title against
+                                                                     22                         a financial institution that is subject to the
+                                                                     23                         standards prescribed by the Board of Governors
+                                                                     24                         for a designated activity.
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00767   Fmt 6652    Sfmt 6201   
+                                                                                                                           768
+                                                                       1                                 (B) ENFORCEMENT                         BY BOARD OF GOVERNORS.—Upon                    receipt of an appropriate written request, the Board of Governors shall determine whether an enforcement action is warranted, and, if so, it shall enforce compliance
+                                                                       6                        with this title or the rules or orders prescribed
+                                                                       7                        by the Board of Governors under this title and,
+                                                                       8                        if so, the financial institution shall be subject
+                                                                       9                        to, and the Board of Governors shall have authority under the provisions of subsections (b)
+                                                                     11                         through (n) of section 8 of the Federal Deposit
+                                                                     12                         Insurance Act (12 U.S.C. 1818) in the same
+                                                                     13                         manner and to the same extent as if the financial institution was an insured depository institution and the Board of Governors was the appropriate Federal banking agency for such insured depository institution
+                                                                     18                (e) BACK-UP AUTHORITY                            OF THE          BOARD            OF   GOVERNORS.—
+
+                                                                     20                         (1) EXAMINATION                     AND ENFORCEMENT.—Notwithstanding any other provision of law, the Board
+                                                                     22                of Governors may—
+                                                                     23                                  (A) conduct an examination of the type described in subsection (a) of any financial institution that is subject to the standards prescribed by the Board of Governors for a designated activity; and
+                                                                       3                                 (B) enforce the provisions of this title or
+                                                                       4                        any rules or orders prescribed by the Board of
+                                                                       5                        Governors under this title against any financial
+                                                                       6                        institution that is subject to the standards prescribed by the Board of Governors for a designated activity.
+                                                                       9                        (2) LIMITATIONS.—
+                                                                     10                                  (A) EXAMINATION.—The Board of Governors may exercise the authority described in
+                                                                     12                         paragraph (1)(A) only if the Board of Governors has—
+                                                                     14                                          (i) reasonable cause to believe that a
+                                                                     15                                  financial institution is not in compliance
+                                                                     16                                  with this title or the rules or orders prescribed by the Board of Governors under
+                                                                     18                                  this title with respect to a designated activity;
+                                                                     20                                          (ii) notified, in writing, the appropriate financial regulator and the Council
+                                                                     22                                  of its belief under clause (i) with supporting documentation included;
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00769   Fmt 6652   Sfmt 6201   
+                                                                                                                           770
+                                                                       1                                         (iii) requested the appropriate financial regulator to conduct a prompt examination of the financial institution; and
+                                                                       4                                         (iv) either—
+                                                                       5                                                  (I) not been afforded a reasonable opportunity to participate in an
+                                                                       7                                         examination of the financial institution by the appropriate financial regulator within 30 days after the date of
+                                                                     10                                          the Board’s notification under clause
+                                                                     11                                          (ii); or
+                                                                     12                                                   (II) reasonable cause to believe
+                                                                     13                                          that the financial institution’s noncompliance with this title or the rules
+                                                                     15                                          or orders prescribed by the Board of
+                                                                     16                                          Governors under this title poses a
+                                                                     17                                          substantial risk to other financial institutions, critical markets, or the
+                                                                     19                                          broader financial system, subject to
+                                                                     20                                          the Board of Governors affording the
+                                                                     21                                          appropriate financial regulator a reasonable opportunity to participate in
+                                                                     23                                          the examination.
+                                                                     24                                  (B) ENFORCEMENT.—The Board of Governors may exercise the authority described in
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00770   Fmt 6652   Sfmt 6201   
+                                                                                                                           771
+                                                                       1                        paragraph (1)(B) only if the Board of Governors has—
+                                                                       3                                         (i) reasonable cause to believe that a
+                                                                       4                                 financial institution is not in compliance
+                                                                       5                                 with this title or the rules or orders prescribed by the Board of Governors under
+                                                                       7                                 this title with respect to a designated activity;
+                                                                       9                                         (ii) notified, in writing, the appropriate financial regulator and the Council
+                                                                     11                                  of its belief under clause (i) with supporting documentation included and with a
+                                                                     13                                  recommendation that the appropriate financial regulator take 1 or more specific
+                                                                     15                                  enforcement actions against the financial
+                                                                     16                                  institution; and
+                                                                     17                                          (iii) either—
+                                                                     18                                                   (I) not been notified, in writing,
+                                                                     19                                          by the appropriate financial regulator
+                                                                     20                                          of the commencement of an enforcement action recommended by the
+                                                                     22                                          Board of Governors against the financial institution within 60 days from
+                                                                     24                                          the date of the notification under
+
+
+
+
+
+                                                                     25                                          clause (ii); or
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00771   Fmt 6652   Sfmt 6201   
+                                                                                                                           772
+                                                                       1                                                  (II) reasonable cause to believe
+                                                                       2                                         that the financial institution’s noncompliance with this title or the rules
+                                                                       4                                         or orders prescribed by the Board of
+                                                                       5                                         Governors under this title poses a
+                                                                       6                                         substantial risk to other financial institutions, critical markets, or the
+                                                                       8                                         broader financial system, subject to
+                                                                       9                                         the Board of Governors notifying the
+                                                                     10                                          appropriate financial regulator of the
+                                                                     11                                          Board’s enforcement action.
+                                                                     12                         (3) ENFORCEMENT                      PROVISIONS.—For                     purposes
+                                                                     13                of taking enforcement action under paragraph (1),
+                                                                     14                the financial institution shall be subject to, and the
+                                                                     15                Board of Governors shall have authority under the
+                                                                     16                provisions of subsections (b) through (n) of section
+                                                                     17                8 of the Federal Deposit Insurance Act (12 U.S.C.
+                                                                     18                1818) in the same manner and to the same extent
+                                                                     19                as if the financial institution was an insured depository institution and the Board of Governors was the
+                                                                     21                appropriate Federal banking agency for such insured
+                                                                     22                depository institution.
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00772   Fmt 6652   Sfmt 6201   
+                                                                                                                           773
+                                                                       1     SEC. 809. REQUESTS FOR INFORMATION, REPORTS, OR
+
+                                                                       2                             RECORDS.
+
+                                                                       3               (a) INFORMATION                      TO      ASSESS SYSTEMIC IMPORTANCE.—
+
+                                                                       5                        (1) FINANCIAL               MARKET UTILITIES.—The                        Council is authorized to require any financial market utility to submit such information as the Council may
+                                                                       8               require for the sole purpose of assessing whether
+                                                                       9               that financial market utility is systemically important, but only if the Council has reasonable cause to
+                                                                     11                believe that the financial market utility meets the
+                                                                     12                standards for systemic importance set forth in section 804.
+                                                                     14                         (2) FINANCIAL               INSTITUTIONS ENGAGED IN PAY-
+
+                                                                     15                MENT, CLEARING, OR SETTLEMENT ACTIVITIES.—
+
+                                                                     16                The Council is authorized to require any financial
+                                                                     17                institution to submit such information as the Council may require for the sole purpose of assessing
+                                                                     19                whether any payment, clearing, or settlement activity engaged in or supported by a financial institution
+                                                                     21                is systemically important, but only if the Council has
+                                                                     22                reasonable cause to believe that the activity meets
+                                                                     23                the standards for systemic importance set forth in
+                                                                     24                section 804.
+
+
+
+
+
+                                                                     25                (b) REPORTING AFTER DESIGNATION.—
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00773   Fmt 6652   Sfmt 6201   
+                                                                                                                           774
+                                                                       1                        (1) DESIGNATED                      FINANCIAL MARKET UTILITIES.—The              Board of Governors and the Council
+                                                                       3               may require a designated financial market utility to
+                                                                       4               submit reports or data to the Board of Governors
+                                                                       5               and the Council in such frequency and form as
+                                                                       6               deemed necessary by the Board of Governors and
+                                                                       7               the Council in order to assess the safety and soundness of the utility and the systemic risk that the
+                                                                       9               utility’s operations pose to the financial system.
+                                                                     10                         (2) FINANCIAL                    INSTITUTIONS                    SUBJECT   TO
+
+                                                                     11                STANDARDS                FOR        DESIGNATED                  ACTIVITIES.—The
+
+                                                                     12                Board of Governors and the Council may require 1
+                                                                     13                or more financial institutions subject to the standards prescribed by the Board of Governors for a designated activity to submit, in such frequency and
+                                                                     16                form as deemed necessary by the Board of Governors and the Council, reports and data to the
+                                                                     18                Board of Governors and the Council solely with respect to the conduct of the designated activity and
+                                                                     20                solely to assess whether—
+                                                                     21                                  (A) the rules, orders, or standards prescribed by the Board of Governors with respect
+                                                                     23                         to the designated activity appropriately address
+                                                                     24                         the risks to the financial system presented by
+
+
+
+
+
+                                                                     25                         such activity; and
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00774   Fmt 6652   Sfmt 6201   
+                                                                                                                           775
+                                                                       1                                 (B) the financial institutions are in compliance with this title and the rules and orders
+                                                                       3                        prescribed by the Board of Governors under
+                                                                       4                        this title with respect to the designated activity.
+                                                                       5               (c) COORDINATION WITH APPROPRIATE FEDERAL
+                                                                       6 SUPERVISORY AGENCY.—
+                                                                       7                        (1) ADVANCE                COORDINATION.—Before                          directly
+                                                                       8               requesting any material information from, or imposing reporting or recordkeeping requirements on, any
+                                                                     10                financial market utility or any financial institution
+                                                                     11                engaged in a payment, clearing, or settlement activity, the Board of Governors and the Council shall coordinate with the Supervisory Agency for a financial
+                                                                     14                market utility or the appropriate financial regulator
+                                                                     15                for a financial institution to determine if the information is available from or may be obtained by the
+                                                                     17                agency in the form, format, or detail required by the
+                                                                     18                Board of Governors and the Council.
+                                                                     19                         (2) SUPERVISORY                     REPORTS.—Notwithstanding
+
+                                                                     20                any other provision of law, the Supervisory Agency,
+                                                                     21                the appropriate financial regulator, and the Board of
+                                                                     22                Governors are authorized to disclose to each other
+                                                                     23                and the Council copies of its examination reports or
+                                                                     24                similar reports regarding any financial market utility
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00775   Fmt 6652   Sfmt 6201   
+                                                                                                                           776
+                                                                       1               or any financial institution engaged in payment,
+                                                                       2               clearing, or settlement activities.
+                                                                       3               (d) TIMING           OF       RESPONSE FROM APPROPRIATE FEDERAL        SUPERVISORY AGENCY.—If the information, report,
+                                                                       5 records, or data requested by the Board of Governors or
+                                                                       6 the Council under subsection (c)(1) are not provided in
+                                                                       7 full by the Supervisory Agency or the appropriate financial
+                                                                       8 regulator in less than 15 days after the date on which
+                                                                       9 the material is requested, the Board of Governors or the
+                                                                     10 Council may request the information or impose recordkeeping or reporting requirements directly on such persons as provided in subsections (a) and (b) with notice
+                                                                     13 to the agency.
+                                                                     14                (e) SHARING OF INFORMATION.—
+                                                                     15                         (1) MATERIAL                     CONCERNS.—Notwithstanding
+
+                                                                     16                any other provision of law, the Board of Governors,
+                                                                     17                the Council, the appropriate financial regulator, and
+                                                                     18                any Supervisory Agency are authorized to—
+                                                                     19                                  (A) promptly notify each other of material
+                                                                     20                         concerns about a designated financial market
+                                                                     21                         utility or any financial institution engaged in
+                                                                     22                         designated activities; and
+                                                                     23                                  (B) share appropriate reports, information,
+                                                                     24                         or data relating to such concerns.
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00776   Fmt 6652   Sfmt 6201   
+                                                                                                                           777
+                                                                       1                        (2) OTHER                 INFORMATION.—Notwithstanding
+
+                                                                       2               any other provision of law, the Board of Governors,
+                                                                       3               the Council, the appropriate financial regulator, or
+                                                                       4               any Supervisory Agency may, under such terms and
+                                                                       5               conditions as it deems appropriate, provide confidential supervisory information and other information
+                                                                       7               obtained under this title to other persons it deems
+                                                                       8               appropriate, including the Secretary, State financial
+                                                                       9               institution supervisory agencies, foreign financial supervisors, foreign central banks, and foreign finance
+                                                                     11                ministries, subject to reasonable assurances of confidentiality.
+                                                                     13                (f) PRIVILEGE MAINTAINED.—The Board of Governors, the Council, the appropriate financial regulator,
+                                                                     15 and any Supervisory Agency providing reports or data
+                                                                     16 under this section shall not be deemed to have waived any
+                                                                     17 privilege applicable to those reports or data, or any portion
+                                                                     18 thereof, by providing the reports or data to the other party
+                                                                     19 or by permitting the reports or data, or any copies thereof,
+                                                                     20 to be used by the other party.
+                                                                     21                (g) DISCLOSURE EXEMPTION.—Information obtained
+                                                                     22 by the Board of Governors or the Council under this section and any materials prepared by the Board of Governors or the Council regarding its assessment of the systemic importance of financial market utilities or any payment, clearing, or settlement activities engaged in by financial institutions, and in connection with its supervision
+                                                                       3 of designated financial market utilities and designated activities, shall be confidential supervisory information exempt from disclosure under section 552 of title 5, United
+                                                                       6 States Code. For purposes of such section 552, this sub-
+                                                                       7 section shall be considered a statute described in sub-
+                                                                       8 section (b)(3) of such section 552.
+                                                                       9     SEC. 810. RULEMAKING.
+
+                                                                     10                The Board of Governors and the Council are authorized to prescribe such rules and issue such orders as may
+                                                                     12 be necessary to administer and carry out the authorities
+                                                                     13 and duties granted to the Board of Governors or the
+                                                                     14 Council, respectively, and prevent evasions thereof.
+                                                                     15      SEC. 811. OTHER AUTHORITY.
+
+                                                                     16                Unless otherwise provided by its terms, this title does
+                                                                     17 not divest any appropriate financial regulator, any Supervisory Agency, or any other Federal or State agency, of
+                                                                     19 any authority derived from any other applicable law, except that any standards prescribed by the Board of Governors under section 805 shall supersede any less stringent requirements established under other authority to the
+                                                                     23 extent of any conflict.
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00778   Fmt 6652   Sfmt 6201   
+                                                                                                                           779
+                                                                       1     SEC. 812. EFFECTIVE DATE.
+
+                                                                       2               This title is effective as of the date of enactment of
+                                                                       3 this Act.
+                                                                      

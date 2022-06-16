@@ -1,0 +1,554 @@
+ SEC. 401. SHORT TITLE.
+
+                                                                       7               This title may be cited as the ‘‘Private Fund Investment Advisers Registration Act of 2010’’.
+                                                                       9     SEC. 402. DEFINITIONS.
+
+                                                                     10                (a) INVESTMENT ADVISERS ACT                                    OF     1940 DEFINITIONS.—Section                  202(a) of the Investment Advisers Act of
+                                                                     12 1940 (15 U.S.C. 80b–2(a)) is amended by adding at the
+                                                                     13 end the following:
+                                                                     14                         ‘‘(29) The term ‘private fund’ means an issuer
+                                                                     15                that would be an investment company, as defined in
+                                                                     16                section 3 of the Investment Company Act of 1940
+                                                                     17                (15 U.S.C. 80a–3), but for section 3(c)(1) or 3(c)(7)
+                                                                     18                of that Act.
+                                                                     19                         ‘‘(30) The term ‘foreign private adviser’ means
+                                                                     20                any investment adviser who—
+                                                                     21                                  ‘‘(A) has no place of business in the
+                                                                     22                         United States;
+                                                                     23                                  ‘‘(B) has, in total, fewer than 15 clients
+                                                                     24                         who are domiciled in or residents of the United
+
+
+
+
+
+                                                                     25                         States;
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00371   Fmt 6652   Sfmt 6201   E:\BILLS\S3217.PCS   S3217
+                                                                                                                           372
+                                                                       1                                 ‘‘(C) has aggregate assets under management attributable to clients in the United
+                                                                       3                        States and investors in the United States in
+                                                                       4                        private funds advised by the investment adviser
+                                                                       5                        of less than $25,000,000, or such higher
+                                                                       6                        amount as the Commission may, by rule, deem
+                                                                       7                        appropriate in accordance with the purposes of
+                                                                       8                        this title; and
+                                                                       9                                 ‘‘(D) neither—
+                                                                     10                                          ‘‘(i) holds itself out generally to the
+                                                                     11                                  public in the United States as an investment adviser; nor
+                                                                     13                                          ‘‘(ii) acts as—
+                                                                     14                                                   ‘‘(I) an investment adviser to any
+                                                                     15                                          investment company registered under
+                                                                     16                                          the Investment Company Act of 1940;
+                                                                     17                                          or
+                                                                     18                                                   ‘‘(II) a company that has elected
+                                                                     19                                          to be a business development company
+                                                                     20                                          pursuant to section 54 of the Investment Company Act of 1940 (15
+                                                                     22                                          U.S.C. 80a–53), and has not withdrawn its election.’’.
+                                                                     24                (b) OTHER DEFINITIONS.—As used in this title, the
+
+
+
+
+
+                                                                     25 terms ‘‘investment adviser’’ and ‘‘private fund’’ have the
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00372   Fmt 6652   Sfmt 6201   E:\BILLS\S3217.PCS   S3217
+                                                                                                                           373
+                                                                       1 same meanings as in section 202 of the Investment Advisers Act of 1940, as amended by this title.
+                                                                       3     SEC. 403. ELIMINATION OF PRIVATE ADVISER EXEMPTION;
+
+                                                                       4                             LIMITED EXEMPTION FOR FOREIGN PRIVATE
+
+                                                                       5                             ADVISERS;              LIMITED             INTRASTATE               EXEMP-
+
+                                                                       6                             TION.
+
+                                                                       7               Section 203(b) of the Investment Advisers Act of
+                                                                       8 1940 (15 U.S.C. 80b–3(b)) is amended—
+                                                                       9                        (1) in paragraph (1), by inserting ‘‘, other than
+                                                                     10                an investment adviser who acts as an investment ad-
+                                                                     11                viser to any private fund,’’ before ‘‘all of whose’’;
+                                                                     12                         (2) by striking paragraph (3) and inserting the
+                                                                     13                following:
+                                                                     14                         ‘‘(3) any investment adviser that is a foreign
+                                                                     15                private adviser;’’; and
+                                                                     16                         (3) in paragraph (5), by striking ‘‘or’’ at the
+                                                                     17                end;
+                                                                     18                         (4) in paragraph (6), by striking the period at
+                                                                     19                the end and inserting ‘‘; or’’; and
+                                                                     20                         (5) by adding at the end the following:
+                                                                     21                         ‘‘(7) any investment adviser, other than any entity that has elected to be regulated or is regulated
+                                                                     23                as a business development company pursuant to section 54 of the Investment Company Act of 1940 (15
+
+
+
+
+
+                                                                     25                U.S.C. 80a–54), who solely advises—
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00373   Fmt 6652   Sfmt 6201   E:\BILLS\S3217.PCS   S3217
+                                                                                                                           374
+                                                                       1                                 ‘‘(A) small business investment companies
+                                                                       2                        that are licensees under the Small Business Investment Act of 1958;
+                                                                       4                                 ‘‘(B) entities that have received from the
+                                                                       5                        Small Business Administration notice to proceed to qualify for a license as a small business
+                                                                       7                        investment company under the Small Business
+                                                                       8                        Investment Act of 1958, which notice or license
+                                                                       9                        has not been revoked; or
+                                                                     10                                  ‘‘(C) applicants that are affiliated with 1
+                                                                     11                         or more licensed small business investment
+                                                                     12                         companies described in subparagraph (A) and
+                                                                     13                         that have applied for another license under the
+                                                                     14                         Small Business Investment Act of 1958, which
+                                                                     15                         application remains pending.’’.
+                                                                     16      SEC. 404. COLLECTION OF SYSTEMIC RISK DATA; REPORTS;
+
+                                                                     17                              EXAMINATIONS; DISCLOSURES.
+
+                                                                     18                Section 204 of the Investment Advisers Act of 1940
+                                                                     19 (15 U.S.C. 80b–4) is amended—
+                                                                     20                         (1) by redesignating subsections (b) and (c) as
+                                                                     21                subsections (c) and (d), respectively; and
+                                                                     22                         (2) by inserting after subsection (a) the following:
+                                                                     24                ‘‘(b) RECORDS                 AND   REPORTS            OF    PRIVATE FUNDS.—
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00374   Fmt 6652   Sfmt 6201   E:\BILLS\S3217.PCS   S3217
+                                                                                                                           375
+                                                                       1                        ‘‘(1) IN        GENERAL.—The                     Commission may require any investment adviser registered under this
+                                                                       3               title—
+                                                                       4                                 ‘‘(A) to maintain such records of, and file
+                                                                       5                        with the Commission such reports regarding,
+                                                                       6                        private funds advised by the investment adviser,
+                                                                       7                        as necessary and appropriate in the public interest and for the protection of investors, or for
+                                                                       9                        the assessment of systemic risk by the Financial Stability Oversight Council (in this sub-
+                                                                     11                         section referred to as the ‘Council’); and
+                                                                     12                                  ‘‘(B) to provide or make available to the
+                                                                     13                         Council those reports or records or the information contained therein.
+                                                                     15                         ‘‘(2) TREATMENT                    OF RECORDS.—The                       records
+                                                                     16                and reports of any private fund to which an investment adviser registered under this title provides investment advice shall be deemed to be the records
+                                                                     19                and reports of the investment adviser.
+                                                                     20                         ‘‘(3) REQUIRED                    INFORMATION.—The                       records
+                                                                     21                and reports required to be maintained by a private
+                                                                     22                fund and subject to inspection by the Commission
+                                                                     23                under this subsection shall include, for each private
+                                                                     24                fund advised by the investment adviser, a description
+
+
+
+
+
+                                                                     25                of—
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00375   Fmt 6652   Sfmt 6201   E:\BILLS\S3217.PCS   S3217
+                                                                                                                           376
+                                                                       1                                 ‘‘(A) the amount of assets under management and use of leverage;
+                                                                       3                                 ‘‘(B) counterparty credit risk exposure;
+                                                                       4                                 ‘‘(C) trading and investment positions;
+                                                                       5                                 ‘‘(D) valuation policies and practices of the
+                                                                       6                        fund;
+                                                                       7                                 ‘‘(E) types of assets held;
+                                                                       8                                 ‘‘(F) side arrangements or side letters,
+                                                                       9                        whereby certain investors in a fund obtain more
+                                                                     10                         favorable rights or entitlements than other investors;
+                                                                     12                                  ‘‘(G) trading practices; and
+                                                                     13                                  ‘‘(H) such other information as the Commission, in consultation with the Council, determines is necessary and appropriate in the public interest and for the protection of investors
+                                                                     17                         or for the assessment of systemic risk, which
+                                                                     18                         may include the establishment of different reporting requirements for different classes of
+                                                                     20                         fund advisers, based on the type or size of private fund being advised.
+                                                                     22                         ‘‘(4) MAINTENANCE                      OF RECORDS.—An                    invest ment adviser registered under this title shall maintain such records of private funds advised by the investment adviser for such period or periods as the
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00376   Fmt 6652   Sfmt 6201   E:\BILLS\S3217.PCS   S3217
+                                                                                                                           377
+                                                                       1               Commission, by rule, may prescribe as necessary and
+                                                                       2               appropriate in the public interest and for the protection of investors, or for the assessment of systemic
+                                                                       4               risk.
+                                                                       5                        ‘‘(5) FILING              OF RECORDS.—The                         Commission
+                                                                       6               shall issue rules requiring each investment adviser to
+                                                                       7               a private fund to file reports containing such information as the Commission deems necessary and appropriate in the public interest and for the protection of investors or for the assessment of systemic
+                                                                     11                risk.
+                                                                     12                         ‘‘(6) EXAMINATION                   OF RECORDS.—
+
+                                                                     13                                  ‘‘(A) PERIODIC                     AND SPECIAL EXAMINATIONS.—The              Commission—
+                                                                     15                                          ‘‘(i) shall conduct periodic inspections
+                                                                     16                                  of all records of private funds maintained
+                                                                     17                                  by an investment adviser registered under
+                                                                     18                                  this title in accordance with a schedule established by the Commission; and
+                                                                     20                                          ‘‘(ii) may conduct at any time and
+                                                                     21                                  from time to time such additional, special,
+                                                                     22                                  and other examinations as the Commission
+                                                                     23                                  may prescribe as necessary and appropriate in the public interest and for the
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00377   Fmt 6652   Sfmt 6201   E:\BILLS\S3217.PCS   S3217
+                                                                                                                           378
+                                                                       1                                 protection of investors, or for the assess-
+                                                                       2                                 ment of systemic risk.
+                                                                       3                                 ‘‘(B) AVAILABILITY                    OF RECORDS.—An                in-
+                                                                       4                        vestment adviser registered under this title shall
+                                                                       5                        make available to the Commission any copies or
+                                                                       6                        extracts from such records as may be prepared
+                                                                       7                        without undue effort, expense, or delay, as the
+                                                                       8                        Commission or its representatives may reasonably request.
+                                                                     10                         ‘‘(7) INFORMATION                   SHARING.—
+
+                                                                     11                                  ‘‘(A) IN       GENERAL.—The                    Commission shall
+                                                                     12                         make available to the Council copies of all reports, documents, records, and information filed
+                                                                     14                         with or provided to the Commission by an investment adviser under this subsection as the
+                                                                     16                         Council may consider necessary for the purpose
+                                                                     17                         of assessing the systemic risk posed by a private fund.
+                                                                     19                                  ‘‘(B)        CONFIDENTIALITY.—The                               Council
+                                                                     20                         shall maintain the confidentiality of information
+                                                                     21                         received under this paragraph in all such reports, documents, records, and information, in
+                                                                     23                         a manner consistent with the level of confidentiality established by the Commission pursuant
+
+
+
+
+
+                                                                     25                         to paragraph (8). The Council shall be exempt
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00378   Fmt 6652   Sfmt 6201   E:\BILLS\S3217.PCS   S3217
+                                                                                                                           379
+                                                                       1                        from section 552 of title 5, United States Code,
+                                                                       2                        with respect to any information in any report,
+                                                                       3                        document, record, or information made available, to the Council under this subsection.’’.
+                                                                       5                        ‘‘(8) COMMISSION                     CONFIDENTIALITY OF RE-
+
+                                                                       6               PORTS.—Notwithstanding                               any other provision of
+                                                                       7               law, the Commission may not be compelled to disclose any report or information contained therein required to be filed with the Commission under this
+                                                                     10                subsection, except that nothing in this subsection
+                                                                     11                authorizes the Commission—
+                                                                     12                                  ‘‘(A) to withhold information from Congress, upon an agreement of confidentiality; or
+                                                                     14                                  ‘‘(B) prevent the Commission from complying with—
+                                                                     16                                          ‘‘(i) a request for information from
+                                                                     17                                  any other Federal department or agency or
+                                                                     18                                  any self-regulatory organization requesting
+                                                                     19                                  the report or information for purposes
+                                                                     20                                  within the scope of its jurisdiction; or
+                                                                     21                                          ‘‘(ii) an order of a court of the United
+                                                                     22                                  States in an action brought by the United
+                                                                     23                                  States or the Commission.
+                                                                     24                         ‘‘(9) OTHER              RECIPIENTS CONFIDENTIALITY.—
+
+
+
+
+
+                                                                     25                Any department, agency, or self-regulatory organization that receives reports or information from the
+                                                                       2               Commission under this subsection shall maintain the
+                                                                       3               confidentiality of such reports, documents, records,
+                                                                       4               and information in a manner consistent with the
+                                                                       5               level of confidentiality established for the Commission under paragraph (8).
+                                                                       7                        ‘‘(10) PUBLIC             INFORMATION EXCEPTION.—
+
+                                                                       8                                 ‘‘(A) IN        GENERAL.—The                    Commission, the
+                                                                       9                        Council, and any other department, agency, or
+                                                                     10                         self-regulatory organization that receives information, reports, documents, records, or information from the Commission under this subsection, shall be exempt from the provisions of
+                                                                     14                         section 552 of title 5, United States Code, with
+                                                                     15                         respect to any such report, document, record, or
+                                                                     16                         information. Any proprietary information of an
+                                                                     17                         investment adviser ascertained by the Commission from any report required to be filed with
+                                                                     19                         the Commission pursuant to this subsection
+                                                                     20                         shall be subject to the same limitations on public disclosure as any facts ascertained during an
+                                                                     22                         examination, as provided by section 210(b) of
+                                                                     23                         this title.
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00380   Fmt 6652   Sfmt 6201   E:\BILLS\S3217.PCS   S3217
+                                                                                                                           381
+                                                                       1                                 ‘‘(B) PROPRIETARY                        INFORMATION.—For
+
+                                                                       2                        purposes of this paragraph, proprietary information includes—
+                                                                       4                                         ‘‘(i) sensitive, non-public information
+                                                                       5                                 regarding the investment or trading strategies of the investment adviser;
+                                                                       7                                         ‘‘(ii) analytical or research methodologies;
+                                                                       9                                         ‘‘(iii) trading data;
+                                                                     10                                          ‘‘(iv) computer hardware or software
+                                                                     11                                  containing intellectual property; and
+                                                                     12                                          ‘‘(v) any additional information that
+                                                                     13                                  the Commission determines to be proprietary.
+                                                                     15                         ‘‘(11) ANNUAL                   REPORT TO CONGRESS.—The
+
+                                                                     16                Commission shall report annually to Congress on
+                                                                     17                how the Commission has used the data collected
+                                                                     18                pursuant to this subsection to monitor the markets
+                                                                     19                for the protection of investors and the integrity of
+                                                                     20                the markets.’’.
+                                                                     21      SEC. 405. DISCLOSURE PROVISION ELIMINATED.
+
+                                                                     22                Section 210(c) of the Investment Advisers Act of
+                                                                     23 1940 (15 U.S.C. 80b–10(c)) is amended by inserting before the period at the end the following: ‘‘or for purposes
+
+
+
+
+
+                                                                     25 of assessment of potential systemic risk’’.
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00381   Fmt 6652   Sfmt 6201   E:\BILLS\S3217.PCS   S3217
+                                                                                                                           382
+                                                                       1     SEC. 406. CLARIFICATION OF RULEMAKING AUTHORITY.
+
+                                                                       2               Section 211 of the Investment Advisers Act of 1940
+                                                                       3 (15 U.S.C. 80b–11) is amended—
+                                                                       4                        (1) in subsection (a), by inserting before the period at the end of the first sentence the following:
+                                                                       6               ‘‘, including rules and regulations defining technical,
+                                                                       7               trade, and other terms used in this title, except that
+                                                                       8               the Commission may not define the term ‘client’ for
+                                                                       9               purposes of paragraphs (1) and (2) of section 206
+                                                                     10                to include an investor in a private fund managed by
+                                                                     11                an investment adviser, if such private fund has entered into an advisory contract with such adviser’’;
+                                                                     13                and
+                                                                     14                         (2) by adding at the end the following:
+                                                                     15                ‘‘(e) DISCLOSURE RULES                         ON     PRIVATE FUNDS.—The
+                                                                     16 Commission and the Commodity Futures Trading Com-
+                                                                     17 mission shall, after consultation with the Council but not
+                                                                     18 later than 12 months after the date of enactment of the
+                                                                     19 Private Fund Investment Advisers Registration Act of
+                                                                     20 2010, jointly promulgate rules to establish the form and
+                                                                     21 content of the reports required to be filed with the Commission under subsection 204(b) and with the Commodity
+                                                                     23 Futures Trading Commission by investment advisers that
+                                                                     24 are registered both under this title and the Commodity
+
+
+
+
+
+                                                                     25 Exchange Act (7 U.S.C. 1a et seq.).’’.
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00382   Fmt 6652   Sfmt 6201   E:\BILLS\S3217.PCS   S3217
+                                                                                                                           383
+                                                                       1     SEC. 407. EXEMPTION OF VENTURE CAPITAL FUND ADVIS-
+
+                                                                       2                             ERS.
+
+                                                                       3               Section 203 of the Investment Advisers Act of 1940
+                                                                       4 (15 U.S.C. 80b–3) is amended by adding at the end the
+                                                                       5 following:
+                                                                       6               ‘‘(l) EXEMPTION                 OF       VENTURE CAPITAL FUND ADVISERS.—No                  investment adviser shall be subject to the
+                                                                       8 registration requirements of this title with respect to the
+                                                                       9 provision of investment advice relating to a venture capital
+                                                                     10 fund. Not later than 6 months after the date of enactment
+                                                                     11 of this subsection, the Commission shall issue final rules
+                                                                     12 to define the term ‘venture capital fund’ for purposes of
+                                                                     13 this subsection.’’.
+                                                                     14      SEC. 408. EXEMPTION OF AND RECORD KEEPING BY PRIVATE EQUITY FUND ADVISERS.
+
+                                                                     16                Section 203 of the Investment Advisers Act of 1940
+                                                                     17 (15 U.S.C. 80b–3) is amended by adding at the end the
+                                                                     18 following:
+                                                                     19                ‘‘(m) EXEMPTION                   OF AND             REPORTING            BY      PRIVATE
+                                                                     20 EQUITY FUND ADVISERS.—
+                                                                     21                         ‘‘(1) IN       GENERAL.—Except                       as provided in this
+                                                                     22                subsection, no investment adviser shall be subject to
+                                                                     23                the registration or reporting requirements of this
+                                                                     24                title with respect to the provision of investment advice relating to a private equity fund or funds.
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00383   Fmt 6652   Sfmt 6201   E:\BILLS\S3217.PCS   S3217
+                                                                                                                           384
+                                                                       1                        ‘‘(2) MAINTENANCE                      OF RECORDS AND ACCESS
+
+                                                                       2               BY COMMISSION.—Not                         later than 6 months after the
+                                                                       3               date of enactment of this subsection, the Commission shall issue final rules—
+                                                                       5                                 ‘‘(A) to require investment advisers described in paragraph (1) to maintain such
+                                                                       7                        records and provide to the Commission such annual or other reports as the Commission taking
+                                                                       9                        into account fund size, governance, investment
+                                                                     10                         strategy, risk, and other factors, as the Commission determines necessary and appropriate
+                                                                     12                         in the public interest and for the protection of
+                                                                     13                         investors; and
+                                                                     14                                  ‘‘(B) to define the term ‘private equity
+                                                                     15                         fund’ for purposes of this subsection.’’.
+                                                                     16      SEC. 409. FAMILY OFFICES.
+
+                                                                     17                (a) IN GENERAL.—Section 202(a)(11) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)(11)) is
+                                                                     19 amended by striking ‘‘or (G)’’ and inserting the following:
+                                                                     20 ‘‘; (G) any family office, as defined by rule, regulation,
+                                                                     21 or order of the Commission, in accordance with the purposes of this title; or (H)’’.
+                                                                     23                (b) RULEMAKING.—The rules, regulations, or orders
+                                                                     24 issued                 by        the         Commission               pursuant            to     section
+
+
+
+
+
+                                                                     25 202(a)(11)(G) of the Investment Advisers Act of 1940, as
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00384   Fmt 6652   Sfmt 6201   E:\BILLS\S3217.PCS   S3217
+                                                                                                                           385
+                                                                       1 added by this section, regarding the definition of the term
+                                                                       2 ‘‘family office’’ shall provide for an exemption that—
+                                                                       3                        (1) is consistent with the previous exemptive
+                                                                       4               policy of the Commission, as reflected in exemptive
+                                                                       5               orders for family offices in effect on the date of enactment of this Act; and
+                                                                       7                        (2) recognizes the range of organizational, management, and employment structures and arrangements employed by family offices.
+                                                                     10      SEC. 410. STATE AND FEDERAL RESPONSIBILITIES; ASSET
+
+                                                                     11                              THRESHOLD FOR FEDERAL REGISTRATION
+
+                                                                     12                              OF INVESTMENT ADVISERS.
+
+                                                                     13                Section 203A(a)(1) of the Investment Advisers Act
+                                                                     14 of 1940 (15 U.S.C. 80b–3a(a)(1)) is amended —
+                                                                     15                         (1) in subparagraph (A)—
+                                                                     16                                  (A) by striking ‘‘$25,000,000’’ and insert-
+                                                                     17                         ing ‘‘$100,000,000’’; and
+                                                                     18                                  (B) by striking ‘‘or’’ at the end;
+                                                                     19                         (2) in subparagraph (B), by striking the period
+                                                                     20                at the end and inserting ‘‘; or’’; and
+                                                                     21                         (3) by adding at the end the following:
+                                                                     22                                  ‘‘(C) is an adviser to a company that has
+                                                                     23                         elected to be a business development company
+                                                                     24                         pursuant to section 54 of the Investment Company Act of 1940, and has not withdrawn its
+                                                                       2                        election.’’.
+                                                                       3     SEC. 411. CUSTODY OF CLIENT ASSETS.
+
+                                                                       4               The Investment Advisers Act of 1940 (15 U.S.C.
+                                                                       5 80b–1 et seq.) is amended by adding at the end the following new section:
+                                                                       7     ‘‘SEC. 223. CUSTODY OF CLIENT ACCOUNTS.
+
+                                                                       8               ‘‘An investment adviser registered under this title
+                                                                       9 shall take such steps to safeguard client assets over which
+                                                                     10 such adviser has custody, including, without limitation,
+                                                                     11 verification of such assets by an independent public accountant, as the Commission may, by rule, prescribe.’’.
+                                                                     13      SEC. 412. ADJUSTING THE ACCREDITED INVESTOR STANDARD FOR INFLATION.
+
+                                                                     15                The Commission shall, by rule—
+                                                                     16                         (1) increase the financial threshold for an accredited investor, as set forth in the rules of the
+                                                                     18                Commission under the Securities Act of 1933, by
+                                                                     19                calculating an amount that is greater than the
+                                                                     20                amount in effect on the date of enactment of this
+                                                                     21                Act of $200,000 income for a natural person (or
+                                                                     22                $300,000 for a couple) and $1,000,000 in assets, as
+                                                                     23                the Commission determines is appropriate and in the
+                                                                     24                public interest, in light of price inflation since those
+
+
+
+
+
+                                                                     25                figures were determined; and
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00386   Fmt 6652   Sfmt 6201   E:\BILLS\S3217.PCS   S3217
+                                                                                                                           387
+                                                                       1                        (2) adjust that threshold not less frequently
+                                                                       2               than once every 5 years, to reflect the percentage increase in the cost of living.
+                                                                       4     SEC. 413. GAO STUDY AND REPORT ON ACCREDITED INVESTORS.
+
+                                                                       6               The Comptroller General of the United States shall
+                                                                       7 conduct a study on the appropriate criteria for determining the financial thresholds or other criteria needed
+                                                                       9 to qualify for accredited investor status and eligibility to
+                                                                     10 invest in private funds, and shall submit a report to the
+                                                                     11 Committee on Banking, Housing, and Urban Affairs of
+                                                                     12 the Senate and the Committee on Financial Services of
+                                                                     13 the House of Representatives on the results of such study
+                                                                     14 not later than 1 year after the date of enactment of this
+                                                                     15 Act.
+                                                                     16      SEC. 414. GAO STUDY ON SELF-REGULATORY ORGANIZATION FOR PRIVATE FUNDS.
+
+                                                                     18                The Comptroller General of the United States shall—
+                                                                     19                         (1) conduct a study of the feasibility of forming
+                                                                     20                a self-regulatory organization to oversee private
+                                                                     21                funds; and
+                                                                     22                         (2) submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and
+                                                                     24                the Committee on Financial Services of the House of
+
+
+
+
+
+                                                                     25                Representatives on the results of such study, not
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00387   Fmt 6652   Sfmt 6201   E:\BILLS\S3217.PCS   S3217
+                                                                                                                           388
+                                                                       1               later than 1 year after the date of enactment of this
+                                                                       2               Act.
+                                                                       3     SEC. 415. COMMISSION STUDY AND REPORT ON SHORT
+
+                                                                       4                             SELLING.
+
+                                                                       5               (a) STUDY.—The Division of Risk, Strategy, and Financial Innovation of the Commission shall conduct a
+                                                                       7 study, taking into account current scholarship, on the
+                                                                       8 state of short selling on national securities exchanges and
+                                                                       9 in the over-the-counter markets, with particular attention
+                                                                     10 to the impact of recent rule changes and the incidence
+                                                                     11 of—
+                                                                     12                         (1) the failure to deliver shares sold short; or
+                                                                     13                         (2) delivery of shares on the fourth day following the short sale transaction.
+                                                                     15                (b) REPORT.—The Division of Risk, Strategy, and
+                                                                     16 Financial Innovation shall submit a report, together with
+                                                                     17 any recommendations for market improvements, including
+                                                                     18 consideration of real time reporting of short sale positions,
+                                                                     19 to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the results of the
+                                                                     22 study conducted under subsection (a), not later than 2
+                                                                     23 years after the date of enactment of this Act.
+
+
+
+
+
+                                                                                  •S 3217 PCS
+
+                                         Jkt 089200   PO 00000   Frm 00388   Fmt 6652   Sfmt 6201   E:\BILLS\S3217.PCS   S3217
+                                                                                                                           389
+                                                                       1     SEC. 416. TRANSITION PERIOD.
+
+                                                                       2               Except as otherwise provided in this title, this title
+                                                                       3 and the amendments made by this title shall become effective 1 year after the date of enactment of this Act, except
+                                                                       5 that any investment adviser may, at the discretion of the
+                                                                       6 investment adviser, register with the Commission under
+                                                                       7 the Investment Advisers Act of 1940 during that 1-year
+                                                                       8 period, subject to the rules of the Commission.
+                                                                       9                
