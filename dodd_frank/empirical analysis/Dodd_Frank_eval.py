@@ -108,41 +108,39 @@ import matplotlib.pyplot as plt
 
 
 fig, ax = plt.subplots(figsize=(10, 5))
-
-#ax.plot(dFd["length"], color = 'green', label = 'length')
-ax.plot(dFd["cyclomatic"], color = 'red', label = 'cyclomatic', linewidth=2.5)
-ax.plot(dFd["quantity"], color = 'orange', label = 'quantity', linewidth=2.5)
-ax.plot(dFd["potential"], color = 'blue', label = 'potential', linewidth=2.5)
-ax.plot(dFd["diversity"], color = 'black', label = 'diversity', linewidth=2.5)
-#ax.plot(dFd["level"], color = 'brown', label = 'level')
-ax.legend(loc = 'upper right', fontsize=15)
+#ax.plot(dFd["length"], color = 'green', label = 'length', linestyle= 'dashed' ,marker="P")
+ax.plot(dFd["cyclomatic"],   color = 'red', label = 'cyclomatic', linestyle= 'dashed' ,marker="P")
+ax.plot(dFd["quantity"], color = 'orange', label = 'quantity', linestyle= 'dashed' ,marker="P")
+ax.plot(dFd["potential"], color = 'blue', label = 'potential', linestyle= 'dashed' ,marker="P")
+ax.plot(dFd["diversity"], color = 'magenta', label = 'diversity', linestyle= 'dashed' ,marker="P")
+#ax.plot(dFd["level"], color = 'brown', label = 'level', linestyle= 'dashed' ,marker="P")
+sns.set_style("whitegrid")
+ax.legend(loc = 'upper left', fontsize=15)
 plt.xticks(rotation=45, fontsize=15)
 plt.yticks( fontsize=15)
-plt.rcParams['figure.dpi'] = 2000
-plt.rcParams['savefig.dpi'] = 2000
+plt.grid(False)
+plt.rcParams['figure.dpi'] = 150
+plt.rcParams['savefig.dpi'] = 150
 plt.show()
-plt.savefig("Dodd_FrankComplexity.png",dpi=300)
 
 
-dFd=pd.concat([measures1, measures6, measures7, measures9, measures10, measures3, measures4, measures2, measures5, measures8])
+dFd=pd.concat([measures1, measures2, measures3, measures4, measures5, measures6, measures7, measures8, measures9, measures10])
 dFd= dFd.set_index('section')
-
-import matplotlib.pyplot as plt
-
-
 
 fig, ax = plt.subplots(figsize=(10, 5))
 
-ax.plot(dFd["length"], color = 'green', label = 'length')
-#ax.plot(dFd["cyclomatic"], color = 'red', label = 'cyclomatic', linewidth=2.5)
-#ax.plot(dFd["quantity"], color = 'orange', label = 'quantity', linewidth=2.5)
-#ax.plot(dFd["potential"], color = 'blue', label = 'potential', linewidth=2.5)
-#ax.plot(dFd["diversity"], color = 'violet', label = 'diversity', linewidth=2.5)
-#ax.plot(dFd["level"], color = 'brown', label = 'level')
+ax.plot(dFd["length"], color = 'green', label = 'length', linestyle= 'dashed' ,marker="P")
+ax.plot(dFd["cyclomatic"],   color = 'red', label = 'cyclomatic', linestyle= 'dashed' ,marker="P")
+ax.plot(dFd["quantity"], color = 'orange', label = 'quantity', linestyle= 'dashed' ,marker="P")
+ax.plot(dFd["potential"], color = 'blue', label = 'potential', linestyle= 'dashed' ,marker="P")
+ax.plot(dFd["diversity"], color = 'magenta', label = 'diversity', linestyle= 'dashed' ,marker="P")
+ax.plot(dFd["level"], color = 'brown', label = 'level', linestyle= 'dashed' ,marker="P")
+sns.set_style("whitegrid")
 ax.legend(loc = 'upper right', fontsize=15)
 plt.xticks(rotation=45, fontsize=15)
 plt.yticks( fontsize=15)
-plt.rcParams['figure.dpi'] = 300
-plt.rcParams['savefig.dpi'] = 300
+plt.grid(False)
+plt.rcParams['figure.dpi'] = 150
+plt.rcParams['savefig.dpi'] = 150
 plt.show()
-plt.savefig("Dodd_FrankComplexity.png",dpi=300)
+
