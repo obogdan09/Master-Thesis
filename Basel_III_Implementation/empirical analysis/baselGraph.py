@@ -45,19 +45,19 @@ baselIII= baselIII.set_index('section')
 
 fig, ax = plt.subplots(figsize=(10, 5))
 
-#ax.plot(baselIII["length"], color = 'green', label = 'length')
-#ax.plot(baselIII["cyclomatic"], color = 'red', label = 'cyclomatic')
-#ax.plot(baselIII["quantity"], color = 'orange', label = 'quantity')
-#ax.plot(baselIII["potential"], color = 'blue', label = 'potential')
-#ax.plot(baselIII["diversity"], color = 'magenta', label = 'diversity')
-ax.plot(baselIII["level"], color = 'purple', label = 'level')
+#ax.plot(baselIII["length"], color = 'green', label = 'length', linestyle= 'dashed' ,marker="P")
+#ax.plot(baselIII["cyclomatic"], color = 'red', label = 'cyclomatic', linestyle= 'dashed' ,marker="P")
+#ax.plot(baselIII["quantity"], color = 'orange', label = 'quantity', linestyle= 'dashed' ,marker="P")
+#ax.plot(baselIII["potential"], color = 'blue', label = 'potential', linestyle= 'dashed' ,marker="P")
+#ax.plot(baselIII["diversity"], color = 'magenta', label = 'diversity', linestyle= 'dashed' ,marker="P")
+#ax.plot(baselIII["level"], color = 'purple', label = 'level', linestyle= 'dashed' ,marker="P")
 sns.set_style("whitegrid")
 ax.legend(loc = 'upper right', fontsize=15)
 plt.xticks(rotation=45, fontsize=10)
 plt.yticks( fontsize=15)
 plt.grid(False)
-plt.rcParams['figure.dpi'] = 500
-plt.rcParams['savefig.dpi'] = 500
+plt.rcParams['figure.dpi'] = 150
+plt.rcParams['savefig.dpi'] = 150
 plt.show()
 
 
@@ -69,17 +69,17 @@ baselIIIdev= baselIIIdev.set_index('section')
 
 fig, ax = plt.subplots(figsize=(10, 5))
 
-#ax.plot(baselIIIdev["length"], color = 'green', label = 'length')
-ax.plot(baselIIIdev["cyclomatic"], color = 'red', label = 'cyclomatic')
-#ax.plot(baselIIIdev["quantity"], color = 'orange', label = 'quantity')
-#ax.plot(baselIIIdev["potential"], color = 'blue', label = 'potential')
-#ax.plot(baselIIIdev["diversity"], color = 'magenta', label = 'diversity')
-#ax.plot(baselIIIdev["level"], color = 'purple', label = 'level')
+#ax.plot(baselIIIdev["length"], color = 'green', label = 'length', linestyle= 'dashed' ,marker="P")
+#ax.plot(baselIIIdev["cyclomatic"], color = 'red', label = 'cyclomatic', linestyle= 'dashed' ,marker="P")
+#ax.plot(baselIIIdev["quantity"], color = 'orange', label = 'quantity', linestyle= 'dashed' ,marker="P")
+#ax.plot(baselIIIdev["potential"], color = 'blue', label = 'potential', linestyle= 'dashed' ,marker="P")
+#ax.plot(baselIIIdev["diversity"], color = 'magenta', label = 'diversity', linestyle= 'dashed' ,marker="P")
+ax.plot(baselIIIdev["level"], color = 'purple', label = 'level', linestyle= 'dashed' ,marker="P")
 sns.set_style("whitegrid")
 ax.legend(loc = 'upper right', fontsize=15)
 plt.xticks(rotation=45, fontsize=10)
 plt.yticks( fontsize=15)
 plt.grid(False)
-plt.rcParams['figure.dpi'] = 500
-plt.rcParams['savefig.dpi'] = 500
+plt.rcParams['figure.dpi'] = 150
+plt.rcParams['savefig.dpi'] = 150
 plt.show()
